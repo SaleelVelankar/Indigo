@@ -330,15 +330,6 @@
          offset="1"
          id="stop9551" />
     </linearGradient>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter9530-7">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.442"
-         id="feGaussianBlur9532-2" />
-    </filter>
     <linearGradient
        y2="36"
        x2="38"
@@ -379,15 +370,6 @@
        x2="38"
        y2="36"
        gradientTransform="matrix(1,0,0,-1,-0.01885435,44)" />
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter9530-1-4-2">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.442"
-         id="feGaussianBlur9532-2-0-8" />
-    </filter>
     <filter
        inkscape:collect="always"
        id="filter4139"
@@ -613,9 +595,9 @@
      borderopacity="0.16078431"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="9.02666"
-     inkscape:cx="-8.9578714"
-     inkscape:cy="-26.090429"
+     inkscape:zoom="16.604167"
+     inkscape:cx="21.548449"
+     inkscape:cy="-28.176032"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -645,7 +627,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -655,7 +637,10 @@
      inkscape:groupmode="layer">
     <g
        transform="translate(0,-270)"
-       id="g4145">
+       id="g4145"
+       inkscape:export-filename="/home/islington/Projects/Current/Indigo/48x48/places/user-trash.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          style="opacity:0.48936169;fill:none;stroke:none"
          id="rect4147"
@@ -846,7 +831,10 @@
     </g>
     <g
        id="g3157"
-       transform="translate(1,-218)">
+       transform="translate(1,-218)"
+       inkscape:export-filename="/home/islington/Projects/Current/Indigo/48x48/status/user-trash-full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          y="270"
          x="0"
@@ -1071,7 +1059,7 @@
          y="287" />
       <path
          style="opacity:0.82178219;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter4139)"
-         d="M 41,71 40,72 8,72 7,71 24,71 z"
+         d="m 41,71 0,1 -33,0 -1,-1 17,0 z"
          id="path3176"
          inkscape:connector-curvature="0"
          transform="translate(0,214)"
