@@ -125,28 +125,6 @@
          in="fbSourceGraphic"
          values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
     </filter>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4712-8"
-       id="linearGradient4718-7"
-       x1="14"
-       y1="10.5"
-       x2="35"
-       y2="10.5"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.9047619,0,0,0.90476189,39.333333,2)" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4712-8">
-      <stop
-         style="stop-color:#f9f9f9;stop-opacity:1;"
-         offset="0"
-         id="stop4714-9" />
-      <stop
-         style="stop-color:#f9f9f9;stop-opacity:0;"
-         offset="1"
-         id="stop4716-9" />
-    </linearGradient>
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4806"
@@ -174,17 +152,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8"
-     inkscape:cx="11.135766"
-     inkscape:cy="16.794696"
-     inkscape:current-layer="g5141"
+     inkscape:zoom="4.1614583"
+     inkscape:cx="43.193992"
+     inkscape:cy="-18.08979"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1280"
-     inkscape:window-height="984"
+     inkscape:window-height="987"
      inkscape:window-x="-2"
-     inkscape:window-y="19"
+     inkscape:window-y="16"
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
      showguides="true"
@@ -192,10 +170,6 @@
     <inkscape:grid
        type="xygrid"
        id="grid3954" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="-4,21"
-       id="guide4850" />
   </sodipodi:namedview>
   <metadata
      id="metadata3848">
@@ -205,7 +179,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
